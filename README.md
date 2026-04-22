@@ -1,3 +1,4 @@
+<img width="16" height="16" alt="golden_salmon" src="https://github.com/user-attachments/assets/d6a64c8a-4735-4ba3-a89a-4f79951a5c91" />
 # Fishing Plus
 
 A Fabric mod for Minecraft that aims to make fishing slightly more fun.
