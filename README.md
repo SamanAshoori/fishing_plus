@@ -1,5 +1,5 @@
-<img width="16" height="16" alt="golden_salmon" src="https://github.com/user-attachments/assets/d6a64c8a-4735-4ba3-a89a-4f79951a5c91" />
-# Fishing Plus
+
+# Fishing Plus <img width="16" height="16" alt="golden_salmon" src="https://github.com/user-attachments/assets/d6a64c8a-4735-4ba3-a89a-4f79951a5c91" />
 
 A Fabric mod for Minecraft that aims to make fishing slightly more fun.
 
@@ -16,9 +16,12 @@ Early development. Not ready for general use yet.
 
 ## Features
 
+
 Currently minimal — this is scaffolding, not a finished mod.
 
 - **Golden Salmon** — a new item.
+- <img width="360" height="360" alt="golden_salmon_360x360" src="https://github.com/user-attachments/assets/f753d1e3-1aab-4475-878a-fcb3fa1d7c52" />
+
 
 More to come. Planned directions include new catch types, fishing-related loot, and mechanical tweaks to the fishing rod itself.
 
