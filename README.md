@@ -23,8 +23,6 @@ Currently minimal — this is scaffolding, not a finished mod.
 - <img width="360" height="360" alt="golden_salmon_360x360" src="https://github.com/user-attachments/assets/f753d1e3-1aab-4475-878a-fcb3fa1d7c52" />
 
 
-More to come. Planned directions include new catch types, fishing-related loot, and mechanical tweaks to the fishing rod itself.
-
 ## Installation
 
 1. Install [Fabric Loader](https://fabricmc.net/use/).
